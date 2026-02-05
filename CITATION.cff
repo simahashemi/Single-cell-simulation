@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Single-Cell Synaptic Clustering"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Hashemi
+    given-names: Sima
+repository-code: https://github.com/simahashemi/Single-Cell-Synaptic-Clustering
+url: https://github.com/simahashemi/Single-Cell-Synaptic-Clustering
+date-released: 2025-05-23
